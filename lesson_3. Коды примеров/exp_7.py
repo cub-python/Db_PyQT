@@ -5,6 +5,7 @@ from sqlalchemy import create_engine, Column, Integer, String
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 
+
 ENGINE = create_engine('sqlite:///declarative_style_base.db3', echo=False)
 
 # Функция declarative_base(), что определяет новый класс,

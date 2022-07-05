@@ -4,6 +4,7 @@
 import os
 import sqlite3
 
+
 DB_OBJ = os.path.join(os.path.dirname(__file__), "demo.sqlite")
 
 # Создание соединения с базой данных

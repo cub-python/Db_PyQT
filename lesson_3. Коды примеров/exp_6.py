@@ -4,6 +4,7 @@ from sqlalchemy import __version__, create_engine, Table, Column, \
     Integer, String, MetaData, ForeignKey
 from sqlalchemy.orm import mapper, sessionmaker
 
+
 print("Версия SQLAlchemy:", __version__)  # -> Версия SQLAlchemy: 1.3.6
 
 # -----------------------Cоздание подключений к БД-------------------------------- #

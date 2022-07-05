@@ -6,6 +6,7 @@ import sqlite3
 
 DB_OBJ = os.path.join(os.path.dirname(__file__), "demo.sqlite")
 
+
 # Создание соединения с базой данных
 # В данном случае это файл базы
 CONN = sqlite3.connect(DB_OBJ)

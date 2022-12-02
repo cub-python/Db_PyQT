@@ -1,0 +1,360 @@
+2022-12-01 16:04:27,167 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 16:04:27,168 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 16:04:27,169 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 16:04:27,170 DEBUG server.py Аргументы успешно загружены.
+2022-12-01 16:04:27,240 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-01 16:05:47,531 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 16:05:47,532 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 16:05:47,532 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 16:05:47,533 DEBUG server.py Аргументы успешно загружены.
+2022-12-01 16:05:47,570 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-01 16:10:27,834 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 16:10:27,836 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 16:10:27,837 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 16:10:27,838 DEBUG server.py Аргументы успешно загружены.
+2022-12-01 16:10:27,880 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-01 22:16:49,510 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:16:49,515 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:16:49,525 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 22:16:49,528 DEBUG server.py Аргументы успешно загружены.
+2022-12-01 22:16:49,576 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-01 22:17:25,531 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:17:25,531 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:17:25,532 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 22:17:25,533 DEBUG server.py Аргументы успешно загружены.
+2022-12-01 22:17:25,569 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-01 22:17:55,626 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:17:55,626 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:17:55,627 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 22:17:55,628 DEBUG server.py Аргументы успешно загружены.
+2022-12-01 22:17:55,662 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-01 22:18:56,212 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:18:56,213 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:18:56,213 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 22:18:56,215 DEBUG server.py Аргументы успешно загружены.
+2022-12-01 22:18:56,289 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-01 22:21:32,048 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:21:32,048 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:21:32,048 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 22:21:32,048 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-01 22:21:32,049 DEBUG server.py Аргументы успешнозагружены.
+2022-12-01 22:21:32,080 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-01 22:22:43,502 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:22:43,503 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:22:43,504 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 22:22:43,505 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-01 22:22:43,507 DEBUG server.py Аргументы успешнозагружены.
+2022-12-01 22:24:03,430 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:24:03,457 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:24:03,458 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 22:24:03,459 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-01 22:24:03,460 DEBUG server.py Аргументы успешнозагружены.
+2022-12-01 22:24:03,542 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-01 22:27:16,520 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:27:16,522 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:27:16,523 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 22:27:16,524 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-01 22:27:16,525 DEBUG server.py Аргументы успешнозагружены.
+2022-12-01 22:27:16,595 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-01 22:50:03,446 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:50:03,446 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 22:50:03,447 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 22:50:03,448 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-01 22:50:03,450 DEBUG server.py Аргументы успешнозагружены.
+2022-12-01 22:50:03,518 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-01 23:46:30,259 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 23:46:30,260 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 23:46:30,261 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 23:46:30,261 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-01 23:46:30,262 DEBUG server.py Аргументы успешнозагружены.
+2022-12-01 23:46:30,319 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-01 23:49:08,165 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 23:49:08,166 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-01 23:49:08,168 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-01 23:49:08,169 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-01 23:49:08,172 DEBUG server.py Аргументы успешнозагружены.
+2022-12-01 23:49:08,223 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 09:27:11,425 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 09:27:11,426 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 09:27:11,428 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-02 09:27:11,428 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 09:27:11,429 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 09:27:11,463 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 09:37:54,590 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 09:37:54,592 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 09:37:54,595 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-02 09:37:54,595 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 09:37:54,598 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 09:37:54,703 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 09:44:02,378 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 09:44:02,379 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 09:44:02,381 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-02 09:44:02,381 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['server.py']
+2022-12-02 09:44:02,382 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 09:44:02,474 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 09:44:20,424 INFO core.py Установлено соедение с ПК ('127.0.0.1', 48302)
+2022-12-02 09:44:20,929 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=25, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48302)>,) , {}. Вызов из модуля common.utils
+2022-12-02 09:44:20,933 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "/home/jka/Загрузки/Db_PyQT/tasks.6/server/core.py", line 84, in run
+    get_message(client_with_message), client_with_message)
+  File "/home/jka/Загрузки/Db_PyQT/tasks.6/common/decos.py", line 21, in log_saver
+    ret = func_to_log(*args, **kwargs)
+  File "/home/jka/Загрузки/Db_PyQT/tasks.6/common/utils.py", line 15, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2022-12-02 09:44:20,942 INFO core.py Клиент ('127.0.0.1', 48302) отключился от сервера.
+2022-12-02 10:25:56,092 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 10:25:56,094 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 10:25:56,095 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-02 10:25:56,096 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 10:25:56,097 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 10:25:56,157 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 10:43:11,342 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 10:43:11,345 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 10:43:11,355 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-02 10:43:11,355 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 10:43:11,356 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 10:43:11,475 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 11:08:14,773 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 11:08:14,775 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 11:08:14,776 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-02 11:08:14,776 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 11:08:14,778 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 11:08:14,849 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 11:17:13,869 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 11:17:13,871 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 11:17:13,873 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-02 11:17:13,873 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 11:17:13,874 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 11:17:13,929 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 12:24:29,932 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 12:24:29,934 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 12:24:29,935 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-02 12:24:29,935 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 12:24:29,936 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 12:24:29,976 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 12:40:02,031 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 12:40:02,033 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 12:40:02,034 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-02 12:40:02,034 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 12:40:02,036 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 12:40:02,095 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 12:56:48,798 INFO core.py Установлено соедение с ПК ('127.0.0.1', 38356)
+2022-12-02 12:56:49,307 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=25, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 38356)>,) , {}. Вызов из модуля common.utils
+2022-12-02 12:56:49,308 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1669975008.8256056, 'user': {'account_name': 'dim', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5Ib2+goWWhxLntrcZZHm\n4lAxJ9nVgyHcMHs4PQofawu8LHn76t9McldaOBlM/P53ECtRL6Aga0wd3ISnGuzL\nIFBghb/izhjApHOqDMAn03+vL53RiVH24aQXl1ByDKWanEHVfymES0RxS1rMMfLE\nMSKtygmoLVJYjQFPMbnf/Y6295qYyTiomudA6vjeHOmZJ0VyQ0pGMeWWKkrdLzoe\n6GnbLcjDmXpkVmtf1OArcMBFDph1hvf0QRFYq8YZeBxScdJUZZ4llvrL1wrKMi8s\n78e9ULyNk13urlldcaqBUZrUG2rkE8VMBD/eM2LIxuSOSyGKEkYGnZp6FNXKv5u3\nGwIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-12-02 12:56:49,308 DEBUG core.py Start auth process for {'account_name': 'dim', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5Ib2+goWWhxLntrcZZHm\n4lAxJ9nVgyHcMHs4PQofawu8LHn76t9McldaOBlM/P53ECtRL6Aga0wd3ISnGuzL\nIFBghb/izhjApHOqDMAn03+vL53RiVH24aQXl1ByDKWanEHVfymES0RxS1rMMfLE\nMSKtygmoLVJYjQFPMbnf/Y6295qYyTiomudA6vjeHOmZJ0VyQ0pGMeWWKkrdLzoe\n6GnbLcjDmXpkVmtf1OArcMBFDph1hvf0QRFYq8YZeBxScdJUZZ4llvrL1wrKMi8s\n78e9ULyNk13urlldcaqBUZrUG2rkE8VMBD/eM2LIxuSOSyGKEkYGnZp6FNXKv5u3\nGwIDAQAB\n-----END PUBLIC KEY-----'}
+2022-12-02 12:57:05,920 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 12:57:05,920 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 12:57:05,921 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-02 12:57:05,921 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 12:57:05,922 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 12:57:05,974 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 12:58:03,599 DEBUG decos.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 12:58:03,599 DEBUG decos.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2022-12-02 12:58:03,600 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2022-12-02 12:58:03,600 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['server.py']
+2022-12-02 12:58:03,603 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 12:58:03,637 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 14:41:08,175 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 14:41:08,177 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 14:41:08,179 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 14:41:08,179 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 14:41:08,180 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 14:41:08,222 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 14:53:59,877 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 14:53:59,879 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 14:53:59,880 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 14:53:59,880 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 14:53:59,881 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 14:53:59,931 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 15:23:46,386 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 15:23:46,389 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 15:23:46,390 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 15:23:46,390 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 15:23:46,391 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 15:23:46,430 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 15:30:01,399 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 15:30:01,400 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 15:30:01,401 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 15:30:01,402 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 15:30:01,403 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 15:30:01,451 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 15:35:06,059 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 15:35:06,059 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 15:35:06,060 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 15:35:06,060 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 15:35:06,061 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 15:35:06,096 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 15:35:34,910 INFO core.py Установлено соедение с ПК ('127.0.0.1', 37226)
+2022-12-02 15:35:35,412 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=25, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 37226)>,),{}. Вызов из модуля common.utils
+2022-12-02 15:35:35,413 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1669984534.9227903, 'user': {'account_name': 'WEE', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoJSt8DU+DEf4fBDZV51G\nJej9/Nh3DtBd7Ox49cpg2UhMWZXXngmx5n5sVh6nlx6bU42OQb9dK4a7STGZcXRz\nMrnahtP8hmxGSczL8pvldymt8AhoL1ejJO3U6aF6Nb5FpJGPAWEceyXFLphP0Ogc\nyXmWW12g9tGYUoh9mVThTeryMF7FMrMlSorla6PzXbkhSzk8yViSiWCoPDi6RBQI\nTpffULB5+71pLpT313n3ygEeB5QGeXgDJtUFUWsE1xC5ApQJx68BN4ctE2PmSnTU\nDnOerDOst6l3AtuhFHlm4EZH35zCI/mIUWkLRIfyrgCYm7YDKx3GLu4CWoZ+jdjK\nDQIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-12-02 15:35:35,413 DEBUG core.py Start auth process for {'account_name': 'WEE', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoJSt8DU+DEf4fBDZV51G\nJej9/Nh3DtBd7Ox49cpg2UhMWZXXngmx5n5sVh6nlx6bU42OQb9dK4a7STGZcXRz\nMrnahtP8hmxGSczL8pvldymt8AhoL1ejJO3U6aF6Nb5FpJGPAWEceyXFLphP0Ogc\nyXmWW12g9tGYUoh9mVThTeryMF7FMrMlSorla6PzXbkhSzk8yViSiWCoPDi6RBQI\nTpffULB5+71pLpT313n3ygEeB5QGeXgDJtUFUWsE1xC5ApQJx68BN4ctE2PmSnTU\nDnOerDOst6l3AtuhFHlm4EZH35zCI/mIUWkLRIfyrgCYm7YDKx3GLu4CWoZ+jdjK\nDQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-12-02 16:03:59,035 CRITICAL config_server_log.py Test critical event
+2022-12-02 16:03:59,039 ERROR config_server_log.py Test error ivent
+2022-12-02 16:03:59,039 DEBUG config_server_log.py Test debug ivent
+2022-12-02 16:03:59,039 INFO config_server_log.py Test info ivent
+2022-12-02 16:04:04,096 CRITICAL config_server_log.py Test critical event
+2022-12-02 16:04:04,096 ERROR config_server_log.py Test error ivent
+2022-12-02 16:04:04,097 DEBUG config_server_log.py Test debug ivent
+2022-12-02 16:04:04,097 INFO config_server_log.py Test info ivent
+2022-12-02 16:04:05,563 CRITICAL config_server_log.py Test critical event
+2022-12-02 16:04:05,564 ERROR config_server_log.py Test error ivent
+2022-12-02 16:04:05,564 DEBUG config_server_log.py Test debug ivent
+2022-12-02 16:04:05,564 INFO config_server_log.py Test info ivent
+2022-12-02 16:31:39,170 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 16:31:39,172 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 16:31:39,174 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 16:31:39,174 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 16:31:39,178 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 16:31:39,244 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 16:33:32,316 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 16:33:32,317 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 16:33:32,319 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 16:33:32,319 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 16:33:32,320 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 16:33:32,362 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 16:48:51,269 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 16:48:51,271 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 16:48:51,273 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 16:48:51,273 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 16:48:51,276 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 16:48:51,372 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 16:49:36,969 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 16:49:36,974 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 16:49:36,975 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 16:49:36,976 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 16:49:36,978 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 16:49:37,045 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 16:50:23,550 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 16:50:23,551 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 16:50:23,552 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 16:50:23,552 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 16:50:23,553 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 16:50:23,597 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 17:53:49,869 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 17:53:49,872 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 17:53:49,873 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 17:53:49,873 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 17:53:49,874 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 17:53:49,997 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 18:04:36,833 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 18:04:36,835 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 18:04:36,836 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 18:04:36,836 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 18:04:36,837 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 18:04:36,880 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 18:33:08,432 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 18:33:08,434 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 18:33:08,436 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 18:33:08,436 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 18:33:08,437 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 18:33:08,483 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 18:55:53,495 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 18:55:53,497 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 18:55:53,500 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 18:55:53,500 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 18:55:53,501 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 18:55:53,600 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 19:51:46,833 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 19:51:46,835 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 19:51:46,838 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 19:51:46,838 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 19:51:46,839 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 19:51:46,870 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 19:52:31,861 INFO core.py Установлено соедение с ПК ('127.0.0.1', 42726)
+2022-12-02 19:52:32,363 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 42726)>,),{}. Вызов из модуля common.utils
+2022-12-02 19:52:32,363 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1669999951.872759, 'user': {'account_name': 'user1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAllQV6ZBlyk+OTl/F68Sz\no10mciLz7qxPj9hrEx06Dr8AEXpz426KTiVuU+CWhZcaBGdprrCpi8l30qp07/gN\nanc1Y3Cg4QaG9m/9WRQLHYVTC6CCRNS0aPCQNGhDdbJa1bSIHeXpPo7ZqcR6PpsH\nizSZ5hdSZKaToAuQFTaKu3JJqBDnoaUP//TqKfO+dQ3QNwTfgBniWEhce3DUupRB\nZJ0IJyunIXAW0xcCY7Gj52FpjCUvN0IO1sTCbLmxJpT2qnZloUeffqhg/a9Z6IKA\n82VzIKlOIhZw+dXmI6uPWdjagYR3rt3th5Oe8yQnv+dSEY5zm5K1ZHLYFJcwD4ZI\nCwIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-12-02 19:52:32,363 DEBUG core.py Start auth process for {'account_name': 'user1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAllQV6ZBlyk+OTl/F68Sz\no10mciLz7qxPj9hrEx06Dr8AEXpz426KTiVuU+CWhZcaBGdprrCpi8l30qp07/gN\nanc1Y3Cg4QaG9m/9WRQLHYVTC6CCRNS0aPCQNGhDdbJa1bSIHeXpPo7ZqcR6PpsH\nizSZ5hdSZKaToAuQFTaKu3JJqBDnoaUP//TqKfO+dQ3QNwTfgBniWEhce3DUupRB\nZJ0IJyunIXAW0xcCY7Gj52FpjCUvN0IO1sTCbLmxJpT2qnZloUeffqhg/a9Z6IKA\n82VzIKlOIhZw+dXmI6uPWdjagYR3rt3th5Oe8yQnv+dSEY5zm5K1ZHLYFJcwD4ZI\nCwIDAQAB\n-----END PUBLIC KEY-----'}
+2022-12-02 19:52:32,365 DEBUG core.py Correct username, starting passwd check.
+2022-12-02 19:52:32,366 DEBUG core.py Auth message = {'response': 511, 'bin': '30691f06be28d3441e18daaa62bc2095cf2f1ba0c3cc6ae38d2e9152463f1897a4d2825fa6538ef04123c8d52def76b7f0d2f1b7107b8ba2d851e4ec86c79a3f'}
+2022-12-02 19:52:32,366 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 42726)>, {'response': 511, 'bin': '30691f06be28d3441e18daaa62bc2095cf2f1ba0c3cc6ae38d2e9152463f1897a4d2825fa6538ef04123c8d52def76b7f0d2f1b7107b8ba2d851e4ec86c79a3f'}),{}. Вызов из модуля common.utils
+2022-12-02 19:52:32,367 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 42726)>,),{}. Вызов из модуля common.utils
+2022-12-02 19:52:32,368 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 42726)>, {'response': 200}),{}. Вызов из модуля common.utils
+2022-12-02 19:52:32,887 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 42726)>,),{}. Вызов из модуля common.utils
+2022-12-02 19:52:32,888 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1669999952.368736, 'account_name': 'user1'}
+2022-12-02 19:52:32,890 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 42726)>, {'response': 202, 'data_list': ['AD', 'DS', 'DSFG', 'FSDAFCD', 'edwde', 'user1']}),{}. Вызов из модуля common.utils
+2022-12-02 19:52:33,393 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 42726)>,),{}. Вызов из модуля common.utils
+2022-12-02 19:52:33,394 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "/home/jka/Загрузки/Db_PyQT/tasks.6/server/core.py", line 81, in run
+    get_message(client_with_message), client_with_message)
+  File "/home/jka/Загрузки/Db_PyQT/tasks.6/common/decos.py", line 22, in log_saver
+    ret = func_to_log(*args, **kwargs)
+  File "/home/jka/Загрузки/Db_PyQT/tasks.6/common/utils.py", line 15, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2022-12-02 19:52:33,408 INFO core.py Клиент ('127.0.0.1', 42726) отключился от сервера.
+2022-12-02 20:28:32,036 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 20:28:32,039 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 20:28:32,040 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 20:28:32,040 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 20:28:32,041 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 20:28:32,088 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 20:31:25,577 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 20:31:25,579 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 20:31:25,580 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 20:31:25,580 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 20:31:25,581 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 20:31:25,662 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 20:33:39,608 INFO core.py Установлено соедение с ПК ('127.0.0.1', 56134)
+2022-12-02 20:33:40,111 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=25, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56134)>,),{}. Вызов из модуля common.utils
+2022-12-02 20:33:40,112 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1670002419.6187518, 'user': {'account_name': 'user1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAllQV6ZBlyk+OTl/F68Sz\no10mciLz7qxPj9hrEx06Dr8AEXpz426KTiVuU+CWhZcaBGdprrCpi8l30qp07/gN\nanc1Y3Cg4QaG9m/9WRQLHYVTC6CCRNS0aPCQNGhDdbJa1bSIHeXpPo7ZqcR6PpsH\nizSZ5hdSZKaToAuQFTaKu3JJqBDnoaUP//TqKfO+dQ3QNwTfgBniWEhce3DUupRB\nZJ0IJyunIXAW0xcCY7Gj52FpjCUvN0IO1sTCbLmxJpT2qnZloUeffqhg/a9Z6IKA\n82VzIKlOIhZw+dXmI6uPWdjagYR3rt3th5Oe8yQnv+dSEY5zm5K1ZHLYFJcwD4ZI\nCwIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-12-02 20:33:40,112 DEBUG core.py Start auth process for {'account_name': 'user1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAllQV6ZBlyk+OTl/F68Sz\no10mciLz7qxPj9hrEx06Dr8AEXpz426KTiVuU+CWhZcaBGdprrCpi8l30qp07/gN\nanc1Y3Cg4QaG9m/9WRQLHYVTC6CCRNS0aPCQNGhDdbJa1bSIHeXpPo7ZqcR6PpsH\nizSZ5hdSZKaToAuQFTaKu3JJqBDnoaUP//TqKfO+dQ3QNwTfgBniWEhce3DUupRB\nZJ0IJyunIXAW0xcCY7Gj52FpjCUvN0IO1sTCbLmxJpT2qnZloUeffqhg/a9Z6IKA\n82VzIKlOIhZw+dXmI6uPWdjagYR3rt3th5Oe8yQnv+dSEY5zm5K1ZHLYFJcwD4ZI\nCwIDAQAB\n-----END PUBLIC KEY-----'}
+2022-12-02 20:33:40,114 DEBUG core.py Correct username, starting passwd check.
+2022-12-02 20:33:40,116 DEBUG core.py Auth message = {'response': 511, 'bin': '47f4d33c2aba55ce4e1643de44c25dd8d72ca9a598fb2bfc69e6ff757267eb47243ff40473b5c109d3daa8a3195252edd1650317f1fd9deacefe55be05ea0ad9'}
+2022-12-02 20:33:40,117 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=25, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56134)>, {'response': 511, 'bin': '47f4d33c2aba55ce4e1643de44c25dd8d72ca9a598fb2bfc69e6ff757267eb47243ff40473b5c109d3daa8a3195252edd1650317f1fd9deacefe55be05ea0ad9'}),{}. Вызов из модуля common.utils
+2022-12-02 20:33:40,118 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=25, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56134)>,),{}. Вызов из модуля common.utils
+2022-12-02 20:33:40,118 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=25, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56134)>, {'response': 200}),{}. Вызов из модуля common.utils
+2022-12-02 20:33:40,633 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=25, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56134)>,),{}. Вызов из модуля common.utils
+2022-12-02 20:33:40,634 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1670002420.1193442, 'account_name': 'user1'}
+2022-12-02 20:33:40,636 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=25, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56134)>, {'response': 202, 'data_list': ['AD', 'DS', 'DSFG', 'FSDAFCD', 'edwde', 'user1', 'user2']}),{}. Вызов из модуля common.utils
+2022-12-02 20:33:41,137 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=25, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56134)>,),{}. Вызов из модуля common.utils
+2022-12-02 20:33:41,137 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "/home/jka/Загрузки/Db_PyQT/tasks.6/server/core.py", line 81, in run
+    get_message(client_with_message), client_with_message)
+  File "/home/jka/Загрузки/Db_PyQT/tasks.6/common/decos.py", line 22, in log_saver
+    ret = func_to_log(*args, **kwargs)
+  File "/home/jka/Загрузки/Db_PyQT/tasks.6/common/utils.py", line 15, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2022-12-02 20:33:41,144 INFO core.py Клиент ('127.0.0.1', 56134) отключился от сервера.
+2022-12-02 20:44:22,442 DEBUG decos.py Была вызвана функция main c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 20:44:22,445 DEBUG decos.py Была вызвана функция config_load c параметрами (),{}. Вызов из модуля __main__
+2022-12-02 20:44:22,447 DEBUG decos.py Была вызвана функция arg_parser c параметрами ('7777', ''),{}. Вызов из модуля __main__
+2022-12-02 20:44:22,447 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['/home/jka/Загрузки/Db_PyQT/tasks.6/server.py']
+2022-12-02 20:44:22,448 DEBUG server.py Аргументы успешнозагружены.
+2022-12-02 20:44:22,500 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-12-02 21:01:47,864 INFO core.py Установлено соедение с ПК ('127.0.0.1', 48574)
+2022-12-02 21:01:48,027 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48574)>,),{}. Вызов из модуля common.utils
+2022-12-02 21:01:48,070 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1670004107.787083, 'user': {'account_name': 'user3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3bB0IlDpk/jfHSMKuDNX\nEFd54bueGTwGRuUqGgJfXyubG2WHVpDiPS5bJRC5IGgr8qLqkDBUGgzVXbWad1wz\nNB7znjF9eJOYU2Cpj5kvDET8FPIFX6Vrn3XsaE6/AGcEV6gNLK9+5cM+DKymiCwy\nM0WexO9ab7pHu6saFpwylWN1t0FKhshHkA5b6RER6Zt/0SoiD3PSBQesvG7VV5/v\n96Oc52dFf2kzoTZdyhumUJIdI1HsuTp4tArPiCOa6s9I0Pxh0tGCpjyYK5QLBAu/\nZr4peaSRGk5S4YcwwATgntDmJwA2OpGVSMou/uSDuEypY4hhglotYrPQLmFO0KDF\nIQIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-12-02 21:01:48,073 DEBUG core.py Start auth process for {'account_name': 'user3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3bB0IlDpk/jfHSMKuDNX\nEFd54bueGTwGRuUqGgJfXyubG2WHVpDiPS5bJRC5IGgr8qLqkDBUGgzVXbWad1wz\nNB7znjF9eJOYU2Cpj5kvDET8FPIFX6Vrn3XsaE6/AGcEV6gNLK9+5cM+DKymiCwy\nM0WexO9ab7pHu6saFpwylWN1t0FKhshHkA5b6RER6Zt/0SoiD3PSBQesvG7VV5/v\n96Oc52dFf2kzoTZdyhumUJIdI1HsuTp4tArPiCOa6s9I0Pxh0tGCpjyYK5QLBAu/\nZr4peaSRGk5S4YcwwATgntDmJwA2OpGVSMou/uSDuEypY4hhglotYrPQLmFO0KDF\nIQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-12-02 21:01:48,359 DEBUG core.py Correct username, starting passwd check.
+2022-12-02 21:01:48,698 DEBUG core.py Auth message = {'response': 511, 'bin': '1efa58f1c9d94b95fb885b483c173b34d3d2889a413ecef1a1345eb46836eabaf47e007a1c76392cb137c243bca752eeece342a7af3fb4249654339fc6ee7ff9'}
+2022-12-02 21:01:48,699 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48574)>, {'response': 511, 'bin': '1efa58f1c9d94b95fb885b483c173b34d3d2889a413ecef1a1345eb46836eabaf47e007a1c76392cb137c243bca752eeece342a7af3fb4249654339fc6ee7ff9'}),{}. Вызов из модуля common.utils
+2022-12-02 21:01:48,706 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48574)>,),{}. Вызов из модуля common.utils
+2022-12-02 21:01:48,707 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48574)>, {'response': 200}),{}. Вызов из модуля common.utils
+2022-12-02 21:01:49,668 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48574)>,),{}. Вызов из модуля common.utils
+2022-12-02 21:01:49,675 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1670004108.7084138, 'account_name': 'user3'}
+2022-12-02 21:01:49,797 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48574)>, {'response': 202, 'data_list': ['AD', 'DS', 'DSFG', 'FSDAFCD', 'edwde', 'user1', 'user2', 'user3']}),{}. Вызов из модуля common.utils
+2022-12-02 21:01:50,329 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=26, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48574)>,),{}. Вызов из модуля common.utils
+2022-12-02 21:01:50,330 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1670004109.8432064, 'user': 'user3'}

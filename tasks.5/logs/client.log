@@ -1,0 +1,360 @@
+2019-07-26 13:10:57,568 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2019-07-26 13:11:00,433 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: fd
+2019-07-26 13:11:00,434 DEBUG decos.py Была вызвана функция create_presence c параметрами ('fd',) , {}. Вызов из модуля __main__
+2019-07-26 13:11:00,434 DEBUG client.py Сформировано presence сообщение для пользователя fd
+2019-07-26 13:11:00,434 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49509), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1564128660.4340708, 'user': {'account_name': 'fd'}}) , {}. Вызов из модуля common.utils
+2019-07-26 13:11:00,435 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49509), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2019-07-26 13:11:00,971 DEBUG decos.py Была вызвана функция process_response_ans c параметрами ({'response': 200},) , {}. Вызов из модуля __main__
+2019-07-26 13:11:00,971 DEBUG client.py Разбор приветственного сообщения от сервера: {'response': 200}
+2019-07-26 13:11:00,972 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2019-07-26 13:11:00,972 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49509), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2019-07-26 13:11:00,972 DEBUG client.py Запущены процессы
+2019-07-26 13:11:38,784 CRITICAL client.py Потеряно соединение с сервером.
+2019-07-26 13:11:48,452 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2019-07-26 13:11:50,704 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: ро
+2019-07-26 13:11:50,705 DEBUG decos.py Была вызвана функция create_presence c параметрами ('ро',) , {}. Вызов из модуля __main__
+2019-07-26 13:11:50,705 DEBUG client.py Сформировано presence сообщение для пользователя ро
+2019-07-26 13:11:50,705 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=32, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49510), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1564128710.7059207, 'user': {'account_name': 'ро'}}) , {}. Вызов из модуля common.utils
+2019-07-26 13:11:50,705 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=32, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49510), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2019-07-26 13:11:51,243 DEBUG decos.py Была вызвана функция process_response_ans c параметрами ({'response': 200},) , {}. Вызов из модуля __main__
+2019-07-26 13:11:51,243 DEBUG client.py Разбор приветственного сообщения от сервера: {'response': 200}
+2019-07-26 13:11:51,243 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2019-07-26 13:11:51,243 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=32, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49510), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2019-07-26 13:11:51,244 DEBUG client.py Запущены процессы
+2019-07-26 13:13:59,930 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2019-07-26 13:14:03,064 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: хай
+2019-07-26 13:14:03,065 DEBUG decos.py Была вызвана функция create_presence c параметрами ('хай',) , {}. Вызов из модуля __main__
+2019-07-26 13:14:03,065 DEBUG client.py Сформировано presence сообщение для пользователя хай
+2019-07-26 13:14:03,065 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49512), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1564128843.0650587, 'user': {'account_name': 'хай'}}) , {}. Вызов из модуля common.utils
+2019-07-26 13:14:03,065 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49512), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2019-07-26 13:14:03,599 DEBUG decos.py Была вызвана функция process_response_ans c параметрами ({'response': 200},) , {}. Вызов из модуля __main__
+2019-07-26 13:14:03,599 DEBUG client.py Разбор приветственного сообщения от сервера: {'response': 200}
+2019-07-26 13:14:03,599 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2019-07-26 13:14:03,600 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49512), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2019-07-26 13:14:03,600 DEBUG client.py Запущены процессы
+2019-07-26 13:27:57,819 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2019-07-26 13:27:59,634 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: df
+2019-07-26 13:27:59,635 DEBUG decos.py Была вызвана функция create_presence c параметрами ('df',) , {}. Вызов из модуля __main__
+2019-07-26 13:27:59,635 DEBUG client.py Сформировано presence сообщение для пользователя df
+2019-07-26 13:27:59,635 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49595), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1564129679.6357398, 'user': {'account_name': 'df'}}) , {}. Вызов из модуля common.utils
+2019-07-26 13:27:59,636 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49595), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2019-07-26 13:28:00,170 DEBUG decos.py Была вызвана функция process_response_ans c параметрами ({'response': 200},) , {}. Вызов из модуля __main__
+2019-07-26 13:28:00,170 DEBUG client.py Разбор приветственного сообщения от сервера: {'response': 200}
+2019-07-26 13:28:00,170 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2019-07-26 13:28:00,171 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49595), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2019-07-26 13:28:00,171 DEBUG client.py Запущены процессы
+2019-07-26 13:36:58,388 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2019-07-26 13:37:23,587 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: g
+2019-07-26 13:37:23,587 DEBUG decos.py Была вызвана функция create_presence c параметрами ('g',) , {}. Вызов из модуля __main__
+2019-07-26 13:37:23,587 DEBUG client.py Сформировано presence сообщение для пользователя g
+2019-07-26 13:37:23,587 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49608), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1564130243.5879667, 'user': {'account_name': 'g'}}) , {}. Вызов из модуля common.utils
+2019-07-26 13:37:23,587 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49608), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2019-07-26 13:37:24,488 DEBUG decos.py Была вызвана функция process_response_ans c параметрами ({'response': 200},) , {}. Вызов из модуля __main__
+2019-07-26 13:37:24,488 DEBUG client.py Разбор приветственного сообщения от сервера: {'response': 200}
+2019-07-26 13:37:24,488 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2019-07-26 13:37:24,489 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49608), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2019-07-26 13:37:24,489 DEBUG client.py Запущены процессы
+2019-07-26 13:38:53,142 CRITICAL client.py Потеряно соединение с сервером.
+2019-07-26 13:38:57,613 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2019-07-26 13:38:59,462 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: kj
+2019-07-26 13:38:59,463 DEBUG decos.py Была вызвана функция create_presence c параметрами ('kj',) , {}. Вызов из модуля __main__
+2019-07-26 13:38:59,463 DEBUG client.py Сформировано presence сообщение для пользователя kj
+2019-07-26 13:38:59,463 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49609), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1564130339.4634678, 'user': {'account_name': 'kj'}}) , {}. Вызов из модуля common.utils
+2019-07-26 13:38:59,463 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49609), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2019-07-26 13:39:00,009 DEBUG decos.py Была вызвана функция process_response_ans c параметрами ({'response': 200},) , {}. Вызов из модуля __main__
+2019-07-26 13:39:00,009 DEBUG client.py Разбор приветственного сообщения от сервера: {'response': 200}
+2019-07-26 13:39:00,009 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2019-07-26 13:39:00,009 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49609), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2019-07-26 13:39:00,009 DEBUG client.py Запущены процессы
+2019-07-26 14:34:59,383 CRITICAL client.py Потеряно соединение с сервером.
+2022-11-27 18:09:54,317 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-27 18:10:03,908 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test
+2022-11-27 18:10:03,913 CRITICAL client.py Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение.
+2022-11-27 18:14:50,711 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-27 21:47:38,559 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-27 21:51:03,134 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-28 15:25:59,601 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-28 15:26:12,337 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-28 15:26:12,338 CRITICAL client.py Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение.
+2022-11-28 15:26:36,911 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-28 15:26:37,150 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-28 15:26:37,162 DEBUG decos.py Была вызвана функция create_presence c параметрами ('Test0',) , {}. Вызов из модуля __main__
+2022-11-28 15:26:37,168 DEBUG client.py Сформировано presence сообщение для пользователя Test0
+2022-11-28 15:26:37,168 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58254), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1669638397.1682937, 'user': {'account_name': 'Test0'}}) , {}. Вызов из модуля common.utils
+2022-11-28 15:26:37,168 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58254), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2022-11-28 15:26:37,334 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-28 15:26:37,346 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-28 15:26:37,346 DEBUG decos.py Была вызвана функция create_presence c параметрами ('Test1',) , {}. Вызов из модуля __main__
+2022-11-28 15:26:37,347 DEBUG client.py Сформировано presence сообщение для пользователя Test1
+2022-11-28 15:26:37,347 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58258), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1669638397.3470278, 'user': {'account_name': 'Test1'}}) , {}. Вызов из модуля common.utils
+2022-11-28 15:26:37,347 DEBUG decos.py Была вызвана функция get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58258), raddr=('127.0.0.1', 7777)>,) , {}. Вызов из модуля common.utils
+2022-11-28 15:26:39,776 CRITICAL client.py Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение.
+2022-11-28 15:26:39,780 CRITICAL client.py Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение.
+2022-11-28 15:27:22,136 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-28 15:27:22,141 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-28 15:27:22,142 CRITICAL client.py Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение.
+2022-11-28 15:27:22,218 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-28 15:27:22,229 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-28 15:27:22,230 CRITICAL client.py Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение.
+2022-11-28 15:27:37,939 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-28 15:27:37,943 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-28 15:27:37,944 CRITICAL client.py Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение.
+2022-11-28 15:27:38,100 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-28 15:27:38,150 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-28 15:27:38,151 CRITICAL client.py Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение.
+2022-11-29 10:49:40,844 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 10:50:03,273 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 11:00:14,351 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 11:04:59,663 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 11:05:05,948 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 11:13:26,962 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 11:25:31,875 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 12:25:15,019 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 12:25:15,044 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 12:25:15,343 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 12:25:15,355 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 12:25:15,592 INFO transport.py Попытка подключения №1
+2022-11-29 12:25:15,593 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 12:25:15,593 DEBUG transport.py Сформировано presence сообщение для пользователя Test0
+2022-11-29 12:25:15,593 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test0', 'to': <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 37292), raddr=('127.0.0.1', 7777)>, 'time': 1669713915.5934105, 'message': {'action': 'presence', 'time': 1669713915.5933406, 'user': {'account_name': 'Test0'}}}
+2022-11-29 12:25:15,620 INFO transport.py Попытка подключения №1
+2022-11-29 12:25:15,620 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 12:25:15,620 DEBUG transport.py Сформировано presence сообщение для пользователя Test1
+2022-11-29 12:25:15,620 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test1', 'to': <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 37304), raddr=('127.0.0.1', 7777)>, 'time': 1669713915.6208143, 'message': {'action': 'presence', 'time': 1669713915.6207378, 'user': {'account_name': 'Test1'}}}
+2022-11-29 12:26:22,034 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 12:26:22,106 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 12:26:22,229 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 12:26:22,238 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 12:26:22,359 INFO transport.py Попытка подключения №1
+2022-11-29 12:26:22,370 INFO transport.py Попытка подключения №1
+2022-11-29 12:26:23,364 INFO transport.py Попытка подключения №2
+2022-11-29 12:26:23,373 INFO transport.py Попытка подключения №2
+2022-11-29 12:26:24,365 INFO transport.py Попытка подключения №3
+2022-11-29 12:26:24,376 INFO transport.py Попытка подключения №3
+2022-11-29 12:26:25,367 INFO transport.py Попытка подключения №4
+2022-11-29 12:26:25,377 INFO transport.py Попытка подключения №4
+2022-11-29 12:26:26,368 INFO transport.py Попытка подключения №5
+2022-11-29 12:26:26,377 INFO transport.py Попытка подключения №5
+2022-11-29 12:26:27,370 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-29 12:26:27,380 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-29 12:26:52,342 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 12:26:52,490 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 12:26:52,564 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 12:26:52,574 INFO transport.py Попытка подключения №1
+2022-11-29 12:26:52,823 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 12:26:52,936 INFO transport.py Попытка подключения №1
+2022-11-29 12:26:53,579 INFO transport.py Попытка подключения №2
+2022-11-29 12:26:53,955 INFO transport.py Попытка подключения №2
+2022-11-29 12:26:54,580 INFO transport.py Попытка подключения №3
+2022-11-29 12:26:54,956 INFO transport.py Попытка подключения №3
+2022-11-29 12:26:55,581 INFO transport.py Попытка подключения №4
+2022-11-29 12:26:55,957 INFO transport.py Попытка подключения №4
+2022-11-29 12:26:56,582 INFO transport.py Попытка подключения №5
+2022-11-29 12:26:56,959 INFO transport.py Попытка подключения №5
+2022-11-29 12:26:57,583 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-29 12:26:57,960 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-29 12:28:54,818 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:24:04,214 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:24:14,484 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:36:27,526 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:47:47,468 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:48:28,364 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:48:54,040 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Roman
+2022-11-29 13:48:54,198 INFO transport.py Попытка подключения №1
+2022-11-29 13:48:55,200 INFO transport.py Попытка подключения №2
+2022-11-29 13:48:56,203 INFO transport.py Попытка подключения №3
+2022-11-29 13:48:57,205 INFO transport.py Попытка подключения №4
+2022-11-29 13:48:58,207 INFO transport.py Попытка подключения №5
+2022-11-29 13:48:59,209 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-29 13:49:40,209 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:49:40,215 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:49:40,929 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 13:49:40,950 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 13:49:41,019 INFO transport.py Попытка подключения №1
+2022-11-29 13:49:41,019 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 13:49:41,020 DEBUG transport.py Сформировано presence сообщение для пользователя Test0
+2022-11-29 13:49:41,020 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test0', 'to': <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 40122), raddr=('127.0.0.1', 7777)>, 'time': 1669718981.0207891, 'message': {'action': 'presence', 'time': 1669718981.0206435, 'user': {'account_name': 'Test0'}}}
+2022-11-29 13:49:41,025 INFO transport.py Попытка подключения №1
+2022-11-29 13:49:41,026 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 13:49:41,026 DEBUG transport.py Сформировано presence сообщение для пользователя Test1
+2022-11-29 13:49:41,026 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test1', 'to': <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 40126), raddr=('127.0.0.1', 7777)>, 'time': 1669718981.0262887, 'message': {'action': 'presence', 'time': 1669718981.026182, 'user': {'account_name': 'Test1'}}}
+2022-11-29 13:56:40,266 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:56:40,272 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:56:40,644 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: test2
+2022-11-29 13:56:40,649 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: test1
+2022-11-29 13:56:40,762 INFO transport.py Попытка подключения №1
+2022-11-29 13:56:40,762 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 13:56:40,763 DEBUG transport.py Сформировано presence сообщение для пользователя test2
+2022-11-29 13:56:40,763 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'test2', 'to': <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 45668), raddr=('127.0.0.1', 7777)>, 'time': 1669719400.7630868, 'message': {'action': 'presence', 'time': 1669719400.763024, 'user': {'account_name': 'test2'}}}
+2022-11-29 13:56:40,788 INFO transport.py Попытка подключения №1
+2022-11-29 13:56:40,788 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 13:56:40,789 DEBUG transport.py Сформировано presence сообщение для пользователя test1
+2022-11-29 13:56:40,789 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'test1', 'to': <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 45684), raddr=('127.0.0.1', 7777)>, 'time': 1669719400.7890663, 'message': {'action': 'presence', 'time': 1669719400.7889931, 'user': {'account_name': 'test1'}}}
+2022-11-29 13:57:20,895 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:57:21,207 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:57:21,632 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 13:57:21,745 INFO transport.py Попытка подключения №1
+2022-11-29 13:57:21,884 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 13:57:22,014 INFO transport.py Попытка подключения №1
+2022-11-29 13:57:22,755 INFO transport.py Попытка подключения №2
+2022-11-29 13:57:23,015 INFO transport.py Попытка подключения №2
+2022-11-29 13:57:23,756 INFO transport.py Попытка подключения №3
+2022-11-29 13:57:24,017 INFO transport.py Попытка подключения №3
+2022-11-29 13:57:24,761 INFO transport.py Попытка подключения №4
+2022-11-29 13:57:25,018 INFO transport.py Попытка подключения №4
+2022-11-29 13:57:25,766 INFO transport.py Попытка подключения №5
+2022-11-29 13:57:26,020 INFO transport.py Попытка подключения №5
+2022-11-29 13:57:26,769 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-29 13:57:27,021 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-29 13:57:34,737 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:57:34,801 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:57:34,880 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 13:57:34,904 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 13:57:35,002 INFO transport.py Попытка подключения №1
+2022-11-29 13:57:35,003 INFO transport.py Попытка подключения №1
+2022-11-29 13:57:36,004 INFO transport.py Попытка подключения №2
+2022-11-29 13:57:36,006 INFO transport.py Попытка подключения №2
+2022-11-29 13:57:37,005 INFO transport.py Попытка подключения №3
+2022-11-29 13:57:37,007 INFO transport.py Попытка подключения №3
+2022-11-29 13:57:38,006 INFO transport.py Попытка подключения №4
+2022-11-29 13:57:38,008 INFO transport.py Попытка подключения №4
+2022-11-29 13:57:39,009 INFO transport.py Попытка подключения №5
+2022-11-29 13:57:39,009 INFO transport.py Попытка подключения №5
+2022-11-29 13:57:40,012 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-29 13:57:40,012 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-29 13:58:10,966 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:58:11,057 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 13:58:11,113 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 13:58:11,205 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 13:58:11,242 INFO transport.py Попытка подключения №1
+2022-11-29 13:58:11,243 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 13:58:11,243 DEBUG transport.py Сформировано presence сообщение для пользователя Test0
+2022-11-29 13:58:11,243 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test0', 'to': <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59112), raddr=('127.0.0.1', 7777)>, 'time': 1669719491.2434003, 'message': {'action': 'presence', 'time': 1669719491.2433379, 'user': {'account_name': 'Test0'}}}
+2022-11-29 13:58:11,274 INFO transport.py Попытка подключения №1
+2022-11-29 13:58:11,274 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 13:58:11,274 DEBUG transport.py Сформировано presence сообщение для пользователя Test1
+2022-11-29 13:58:11,274 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test1', 'to': <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59114), raddr=('127.0.0.1', 7777)>, 'time': 1669719491.2747746, 'message': {'action': 'presence', 'time': 1669719491.2747164, 'user': {'account_name': 'Test1'}}}
+2022-11-29 14:00:50,922 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 14:00:50,924 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 14:00:51,451 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 14:00:51,478 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 14:00:51,561 INFO transport.py Попытка подключения №1
+2022-11-29 14:00:51,562 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 14:00:51,562 DEBUG transport.py Сформировано presence сообщение для пользователя Test0
+2022-11-29 14:00:51,562 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test0', 'to': <socket.socket fd=17, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58424), raddr=('127.0.0.1', 7777)>, 'time': 1669719651.562286, 'message': {'action': 'presence', 'time': 1669719651.5621924, 'user': {'account_name': 'Test0'}}}
+2022-11-29 14:00:51,568 INFO transport.py Попытка подключения №1
+2022-11-29 14:00:51,568 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 14:00:51,568 DEBUG transport.py Сформировано presence сообщение для пользователя Test1
+2022-11-29 14:00:51,569 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test1', 'to': <socket.socket fd=17, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58426), raddr=('127.0.0.1', 7777)>, 'time': 1669719651.5688956, 'message': {'action': 'presence', 'time': 1669719651.5686955, 'user': {'account_name': 'Test1'}}}
+2022-11-29 14:01:26,862 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 14:01:26,889 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 14:01:27,640 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 14:01:27,661 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 14:01:27,733 INFO transport.py Попытка подключения №1
+2022-11-29 14:01:27,734 INFO transport.py Попытка подключения №1
+2022-11-29 14:01:28,736 INFO transport.py Попытка подключения №2
+2022-11-29 14:01:28,736 INFO transport.py Попытка подключения №2
+2022-11-29 14:01:29,736 INFO transport.py Попытка подключения №3
+2022-11-29 14:01:29,738 INFO transport.py Попытка подключения №3
+2022-11-29 14:01:30,737 INFO transport.py Попытка подключения №4
+2022-11-29 14:01:30,739 INFO transport.py Попытка подключения №4
+2022-11-29 14:01:31,740 INFO transport.py Попытка подключения №5
+2022-11-29 14:01:31,740 INFO transport.py Попытка подключения №5
+2022-11-29 14:01:32,742 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-29 14:01:32,742 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-29 14:53:45,755 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 14:53:45,755 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 14:53:46,781 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 14:53:46,843 INFO transport.py Попытка подключения №1
+2022-11-29 14:53:46,843 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 14:53:46,843 DEBUG transport.py Сформировано presence сообщение для пользователя Test1
+2022-11-29 14:53:46,844 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test1', 'to': <socket.socket fd=17, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52896), raddr=('127.0.0.1', 7777)>, 'time': 1669722826.8439822, 'message': {'action': 'presence', 'time': 1669722826.8439088, 'user': {'account_name': 'Test1'}}}
+2022-11-29 14:53:47,536 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 14:53:47,594 INFO transport.py Попытка подключения №1
+2022-11-29 14:53:47,596 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 14:53:47,596 DEBUG transport.py Сформировано presence сообщение для пользователя Test0
+2022-11-29 14:53:47,596 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test0', 'to': <socket.socket fd=17, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52908), raddr=('127.0.0.1', 7777)>, 'time': 1669722827.596395, 'message': {'action': 'presence', 'time': 1669722827.5962923, 'user': {'account_name': 'Test0'}}}
+2022-11-29 15:18:02,253 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 15:18:02,277 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 15:18:03,185 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 15:18:03,196 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 15:18:03,412 INFO transport.py Попытка подключения №1
+2022-11-29 15:18:03,412 INFO transport.py Попытка подключения №1
+2022-11-29 15:18:03,412 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 15:18:03,412 DEBUG transport.py Сформировано presence сообщение для пользователя Test0
+2022-11-29 15:18:03,412 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 15:18:03,412 DEBUG transport.py Сформировано presence сообщение для пользователя Test1
+2022-11-29 15:18:03,413 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test0', 'to': <socket.socket fd=17, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 39406), raddr=('127.0.0.1', 7777)>, 'time': 1669724283.412986, 'message': {'action': 'presence', 'time': 1669724283.4129422, 'user': {'account_name': 'Test0'}}}
+2022-11-29 15:18:03,413 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test1', 'to': <socket.socket fd=17, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 39418), raddr=('127.0.0.1', 7777)>, 'time': 1669724283.4130197, 'message': {'action': 'presence', 'time': 1669724283.4129705, 'user': {'account_name': 'Test1'}}}
+2022-11-29 15:59:36,467 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 15:59:36,479 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 15:59:37,108 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 15:59:37,109 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 16:00:09,976 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 16:00:09,988 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 16:00:10,307 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 16:00:10,330 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 16:38:06,417 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 16:38:06,419 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 16:38:07,136 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 16:38:07,189 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 16:38:07,281 INFO transport.py Попытка подключения №1
+2022-11-29 16:38:07,282 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 16:38:07,282 DEBUG transport.py Сформировано presence сообщение для пользователя Test1
+2022-11-29 16:38:07,282 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test1', 'to': <socket.socket fd=17, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42382), raddr=('127.0.0.1', 7777)>, 'time': 1669729087.2825975, 'message': {'action': 'presence', 'time': 1669729087.282528, 'user': {'account_name': 'Test1'}}}
+2022-11-29 16:38:07,287 INFO transport.py Попытка подключения №1
+2022-11-29 16:38:07,299 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 16:38:07,299 DEBUG transport.py Сформировано presence сообщение для пользователя Test0
+2022-11-29 16:38:07,299 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test0', 'to': <socket.socket fd=17, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42384), raddr=('127.0.0.1', 7777)>, 'time': 1669729087.2998052, 'message': {'action': 'presence', 'time': 1669729087.2997046, 'user': {'account_name': 'Test0'}}}
+2022-11-29 17:29:25,257 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 17:29:25,258 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 17:29:25,841 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 17:29:25,843 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 17:29:25,937 INFO transport.py Попытка подключения №1
+2022-11-29 17:29:25,938 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 17:29:25,938 DEBUG transport.py Сформировано presence сообщение для пользователя Test0
+2022-11-29 17:29:25,938 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test0', 'to': <socket.socket fd=17, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 40288), raddr=('127.0.0.1', 7777)>, 'time': 1669732165.9387126, 'message': {'action': 'presence', 'time': 1669732165.938667, 'user': {'account_name': 'Test0'}}}
+2022-11-29 17:29:25,936 INFO transport.py Попытка подключения №1
+2022-11-29 17:29:25,942 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 17:29:25,942 DEBUG transport.py Сформировано presence сообщение для пользователя Test1
+2022-11-29 17:29:25,942 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test1', 'to': <socket.socket fd=17, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 40292), raddr=('127.0.0.1', 7777)>, 'time': 1669732165.9425738, 'message': {'action': 'presence', 'time': 1669732165.9425259, 'user': {'account_name': 'Test1'}}}
+2022-11-29 17:29:39,803 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 17:29:39,833 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 17:29:40,004 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 17:29:40,013 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 17:29:40,037 INFO transport.py Попытка подключения №1
+2022-11-29 17:29:40,049 INFO transport.py Попытка подключения №1
+2022-11-29 17:29:41,040 INFO transport.py Попытка подключения №2
+2022-11-29 17:29:41,051 INFO transport.py Попытка подключения №2
+2022-11-29 17:29:42,042 INFO transport.py Попытка подключения №3
+2022-11-29 17:29:42,054 INFO transport.py Попытка подключения №3
+2022-11-29 17:29:43,044 INFO transport.py Попытка подключения №4
+2022-11-29 17:29:43,058 INFO transport.py Попытка подключения №4
+2022-11-29 17:29:44,045 INFO transport.py Попытка подключения №5
+2022-11-29 17:29:44,060 INFO transport.py Попытка подключения №5
+2022-11-29 17:29:45,048 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-29 17:29:45,063 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-29 17:33:31,910 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 17:33:31,912 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 17:33:33,504 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 17:33:33,716 INFO transport.py Попытка подключения №1
+2022-11-29 17:33:33,717 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 17:33:33,718 DEBUG transport.py Сформировано presence сообщение для пользователя Test1
+2022-11-29 17:33:33,718 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test1', 'to': <socket.socket fd=17, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 33664), raddr=('127.0.0.1', 7777)>, 'time': 1669732413.7181153, 'message': {'action': 'presence', 'time': 1669732413.718067, 'user': {'account_name': 'Test1'}}}
+2022-11-29 17:33:33,750 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 17:33:33,843 INFO transport.py Попытка подключения №1
+2022-11-29 17:33:33,843 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 17:33:33,844 DEBUG transport.py Сформировано presence сообщение для пользователя Test0
+2022-11-29 17:33:33,844 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test0', 'to': <socket.socket fd=17, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 33678), raddr=('127.0.0.1', 7777)>, 'time': 1669732413.8440778, 'message': {'action': 'presence', 'time': 1669732413.8440309, 'user': {'account_name': 'Test0'}}}
+2022-11-29 18:03:46,865 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 18:03:46,868 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2022-11-29 18:03:47,512 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test1
+2022-11-29 18:03:47,514 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Test0
+2022-11-29 18:03:47,581 INFO transport.py Попытка подключения №1
+2022-11-29 18:03:47,582 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 18:03:47,582 DEBUG transport.py Сформировано presence сообщение для пользователя Test0
+2022-11-29 18:03:47,582 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test0', 'to': <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55696), raddr=('127.0.0.1', 7777)>, 'time': 1669734227.582315, 'message': {'action': 'presence', 'time': 1669734227.5822663, 'user': {'account_name': 'Test0'}}}
+2022-11-29 18:03:47,585 INFO transport.py Попытка подключения №1
+2022-11-29 18:03:47,585 DEBUG transport.py Установлено соединение с сервером
+2022-11-29 18:03:47,585 DEBUG transport.py Сформировано presence сообщение для пользователя Test1
+2022-11-29 18:03:47,586 DEBUG transport.py Сформирован словарь сообщения: {'action': 'message', 'from': 'Test1', 'to': <socket.socket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55712), raddr=('127.0.0.1', 7777)>, 'time': 1669734227.5859458, 'message': {'action': 'presence', 'time': 1669734227.5858493, 'user': {'account_name': 'Test1'}}}
